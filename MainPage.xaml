@@ -9,7 +9,10 @@
 
 
 
-        <Label Text="Welcome"/>
+        <VerticalStackLayout VerticalOptions="Center">
+            <Image Source="sm.png" HeightRequest="80" WidthRequest="80" HorizontalOptions="Center"    />
+            <Label Text="Welcome to Home Page"   FontSize="Medium" VerticalOptions="End" HorizontalOptions="Center" Margin="0,0,0,0"/>
+        </VerticalStackLayout>
 
     </ScrollView>
  

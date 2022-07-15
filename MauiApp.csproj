@@ -49,10 +49,8 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <None Remove="Resources\Images\Act1.gif" />
 	  <None Remove="Resources\Images\bgk1.png" />
 	  <None Remove="Resources\Images\bgk3.png" />
-	  <None Remove="Resources\Images\bgk4.png" />
 	  <None Remove="Resources\Images\sm.png" />
 	  <None Remove="Resources\Images\sm2.png" />
 	</ItemGroup>
