@@ -1,0 +1,1 @@
+E:\Git-Projects\MAUI\Public\MauiApp\MauiApp.csproj;x64
